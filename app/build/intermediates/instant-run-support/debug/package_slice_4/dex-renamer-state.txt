@@ -1,0 +1,4 @@
+#Wed Jan 17 17:53:27 IST 2018
+base.0=D\:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165785986687",
+    "firebase_url": "https://canwetalk-ed7bd.firebaseio.com",
+    "project_id": "canwetalk-ed7bd",
+    "storage_bucket": "canwetalk-ed7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165785986687:android:32cc10b65339e857",
+        "android_client_info": {
+          "package_name": "com.example.rakesh.canwetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165785986687-h6d0g29isb7a4arqib2sj91j58aoircu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rakesh.canwetalk",
+            "certificate_hash": "1b1d0042584447a1889fa0b2d47454886bbe288b"
+          }
+        },
+        {
+          "client_id": "165785986687-kb9kcqe4sg4ef9b9acq6g9kibtovqbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ACWikCUpW9j9R0CWcvaFRqpOX6k_Ik0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165785986687-kb9kcqe4sg4ef9b9acq6g9kibtovqbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

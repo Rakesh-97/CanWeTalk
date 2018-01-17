@@ -1,0 +1,412 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.firebaseui:firebase-ui:0.6.2] C:\Users\Rakesh\.android\build-cache\8d893d5284185c3a2193ba581423fe5a61ea69b7\output\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.6.2] C:\Users\Rakesh\.android\build-cache\2b38373bb134fd5d7dbcab76c8a3de773ff99999\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rakesh\.android\build-cache\66ce7edac989d3642183e67a3338988d368f3f88\output\AndroidManifest.xml:9:5-20
+MERGED from [com.firebaseui:firebase-ui-database:0.6.2] C:\Users\Rakesh\.android\build-cache\2b38373bb134fd5d7dbcab76c8a3de773ff99999\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:12:5-83:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\Rakesh\.android\build-cache\130109a675ae2d68f57c163fb3cdcc2960013904\output\AndroidManifest.xml:28:5-37:19
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\Rakesh\.android\build-cache\e1d0809b704c791e4cf4f3b3667752e66d3fe25a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Rakesh\.android\build-cache\5a124db0bb23a5cf1a91ce2cd533bdc6d2fe8f0e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.0.1] C:\Users\Rakesh\.android\build-cache\8a33b85ae697bfae5e1dbf230aed83ab8c435883\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Rakesh\.android\build-cache\4c35e5b161ec7b64ef54fb051ffa13fa50e92979\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\ac144340db787355136bbee7120d0507507606eb\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Rakesh\.android\build-cache\39cadd45c802e154058c357579aebbd3f69bc788\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\32a92ce97047bd590edb004bf6898d9d594ae3fe\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\505e23252713fbea433aadc2c5db4e55234d00ad\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.0.0] C:\Users\Rakesh\.android\build-cache\31469e47daf6578a3c4a2a05e6c89c99ba831635\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Rakesh\.android\build-cache\810ee43993efd7f99a600483486a733983ca0095\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Rakesh\.android\build-cache\92ffefe4ec3f0d1d49420600b2399d514c0cdbfd\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Rakesh\.android\build-cache\6d26183301a09e1758fb011d28022682bdc4e34f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Rakesh\.android\build-cache\b0696dce1caf0f7a24ec7cdbb099086bbbd701c1\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\17417b8c1ae8769482fbeb1ba88ebf4f38e38be1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\5806e7916c59d9a90b9e2273d9128f368ac3efc0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\7a0547ba6a1472a79eabfc70faecc28bfdf2ce5d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\c9ae368f9bad788d5fc50e643836eeff3b8e9afa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\06e9dff8e8e5d9a6bc1492858242e9dc789f1f8c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\d66c1a7f14ed6bf1969f7df7f61d2474a45e09e9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:8:9-42
+	android:theme
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.rakesh.canwetalk.MainActivity
+ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rakesh\.android\build-cache\66ce7edac989d3642183e67a3338988d368f3f88\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui:0.6.2] C:\Users\Rakesh\.android\build-cache\8d893d5284185c3a2193ba581423fe5a61ea69b7\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.6.2] C:\Users\Rakesh\.android\build-cache\2b38373bb134fd5d7dbcab76c8a3de773ff99999\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Rakesh\.android\build-cache\7d0614a38bddb77b10978c23a7f456f231ca56a5\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Rakesh\.android\build-cache\ceb894878119cc276923c1e50a9bd399ca59060d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\Rakesh\.android\build-cache\130109a675ae2d68f57c163fb3cdcc2960013904\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\Rakesh\.android\build-cache\e1d0809b704c791e4cf4f3b3667752e66d3fe25a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Rakesh\.android\build-cache\5a124db0bb23a5cf1a91ce2cd533bdc6d2fe8f0e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.0.1] C:\Users\Rakesh\.android\build-cache\8a33b85ae697bfae5e1dbf230aed83ab8c435883\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Rakesh\.android\build-cache\325d24f42bd3ecb2f2061932087345fba3ebfa81\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Rakesh\.android\build-cache\4c35e5b161ec7b64ef54fb051ffa13fa50e92979\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\ac144340db787355136bbee7120d0507507606eb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Rakesh\.android\build-cache\39cadd45c802e154058c357579aebbd3f69bc788\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Rakesh\.android\build-cache\b84c4853800bdb3075436e54bfe29db38bd23879\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Rakesh\.android\build-cache\4a6fa630fc23bbe3f06107c2c187bc24dc4630c6\output\AndroidManifest.xml:4:5-42
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.2] C:\Users\Rakesh\.android\build-cache\ceac7740c110d3416ab6c57d90255effb8fb56db\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\32a92ce97047bd590edb004bf6898d9d594ae3fe\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\505e23252713fbea433aadc2c5db4e55234d00ad\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.0.0] C:\Users\Rakesh\.android\build-cache\31469e47daf6578a3c4a2a05e6c89c99ba831635\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Rakesh\.android\build-cache\29276ab5832500fbec1912babaefd61aa9c7401d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Rakesh\.android\build-cache\405274f585545e90b874f05fb95055af70d989ab\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Rakesh\.android\build-cache\810ee43993efd7f99a600483486a733983ca0095\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Rakesh\.android\build-cache\92ffefe4ec3f0d1d49420600b2399d514c0cdbfd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Rakesh\.android\build-cache\6d26183301a09e1758fb011d28022682bdc4e34f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Rakesh\.android\build-cache\b0696dce1caf0f7a24ec7cdbb099086bbbd701c1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\17417b8c1ae8769482fbeb1ba88ebf4f38e38be1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\5806e7916c59d9a90b9e2273d9128f368ac3efc0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\7a0547ba6a1472a79eabfc70faecc28bfdf2ce5d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\c9ae368f9bad788d5fc50e643836eeff3b8e9afa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\06e9dff8e8e5d9a6bc1492858242e9dc789f1f8c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\d66c1a7f14ed6bf1969f7df7f61d2474a45e09e9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\Rakesh\.android\build-cache\8a33b85ae697bfae5e1dbf230aed83ab8c435883\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\Maked_project\CanWeTalk\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:0.6.2] C:\Users\Rakesh\.android\build-cache\2b38373bb134fd5d7dbcab76c8a3de773ff99999\output\AndroidManifest.xml:14:9-16:69
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:13:9-15:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Rakesh\.android\build-cache\b0696dce1caf0f7a24ec7cdbb099086bbbd701c1\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:0.6.2] C:\Users\Rakesh\.android\build-cache\2b38373bb134fd5d7dbcab76c8a3de773ff99999\output\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:0.6.2] C:\Users\Rakesh\.android\build-cache\2b38373bb134fd5d7dbcab76c8a3de773ff99999\output\AndroidManifest.xml:15:13-58
+activity#com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:17:9-20:56
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:19:13-76
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:18:13-88
+activity#com.firebase.ui.auth.ui.email.EmailHintContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:21:9-24:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:23:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:24:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:22:13-84
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:25:9-28:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:27:13-68
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:26:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:29:9-32:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:31:13-66
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:32:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:30:13-79
+activity#com.firebase.ui.auth.ui.email.SignInNoPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:33:9-36:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:35:13-71
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:36:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:34:13-82
+activity#com.firebase.ui.auth.ui.email.SignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:37:9-40:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:39:13-59
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:40:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:38:13-72
+activity#com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:41:9-44:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:43:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:42:13-88
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:45:9-48:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:47:13-66
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:48:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:46:13-85
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:49:9-52:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:51:13-71
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:52:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:50:13-90
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:53:9-56:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:55:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:56:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:54:13-80
+activity#com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:57:9-60:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:59:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:60:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:58:13-82
+activity#com.firebase.ui.auth.ui.ChooseAccountActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:61:9-64:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:63:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:62:13-73
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:65:9-70:45
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\Rakesh\.android\build-cache\130109a675ae2d68f57c163fb3cdcc2960013904\output\AndroidManifest.xml:29:9-32:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:68:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:67:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:69:13-58
+		REJECTED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\Rakesh\.android\build-cache\130109a675ae2d68f57c163fb3cdcc2960013904\output\AndroidManifest.xml:32:13-72
+	tools:replace
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:70:13-42
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:66:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:71:9-82:20
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\Rakesh\.android\build-cache\130109a675ae2d68f57c163fb3cdcc2960013904\output\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:73:13-36
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:72:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:74:13-81:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:75:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:77:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:78:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:78:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:80:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.2] C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\AndroidManifest.xml:80:23-78
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\AndroidManifest.xml:24:18-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\32a92ce97047bd590edb004bf6898d9d594ae3fe\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\505e23252713fbea433aadc2c5db4e55234d00ad\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\17417b8c1ae8769482fbeb1ba88ebf4f38e38be1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\5806e7916c59d9a90b9e2273d9128f368ac3efc0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\7a0547ba6a1472a79eabfc70faecc28bfdf2ce5d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\c9ae368f9bad788d5fc50e643836eeff3b8e9afa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\06e9dff8e8e5d9a6bc1492858242e9dc789f1f8c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\d66c1a7f14ed6bf1969f7df7f61d2474a45e09e9\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rakesh\.android\build-cache\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Rakesh\.android\build-cache\92ffefe4ec3f0d1d49420600b2399d514c0cdbfd\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Rakesh\.android\build-cache\92ffefe4ec3f0d1d49420600b2399d514c0cdbfd\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Rakesh\.android\build-cache\92ffefe4ec3f0d1d49420600b2399d514c0cdbfd\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Rakesh\.android\build-cache\92ffefe4ec3f0d1d49420600b2399d514c0cdbfd\output\AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\AndroidManifest.xml:6:79-124

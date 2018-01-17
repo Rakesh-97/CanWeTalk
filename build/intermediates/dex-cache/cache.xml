@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\29276ab5832500fbec1912babaefd61aa9c7401d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_848fe50e3db388b60fc35a9317c089daf79eb578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\b84c4853800bdb3075436e54bfe29db38bd23879\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_0c6a98d73cff2e43c4c3d5c972233ad5cecf77b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\a01b7e782e0a5e2255f648b044b33bad7da11125\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38c0f2d5be3c27ed0adf9aebe7b8e3aa0d78b9fb">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_612efca733c38c0c7057b0074ea1f446c5a173dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_5381c3be63f47edc75622f3fd48047f83de585f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\405274f585545e90b874f05fb95055af70d989ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_795144687f13539da4539b9fb76ef9f74fbae362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\2b38373bb134fd5d7dbcab76c8a3de773ff99999\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7058bce7e91ddb18e2e07b0b699019039b87e47b">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_5e5c96555147f679ae23ef998683d02c6d4df7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\c9ae368f9bad788d5fc50e643836eeff3b8e9afa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_957ad7d2d9c67adf4fe29db4a212b87274f6468d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\17417b8c1ae8769482fbeb1ba88ebf4f38e38be1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_9e158ce392ef37a4fb2b125c6158c3a08a404d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\17e02ccd2e5bd882d37f339b6d203f7d78d31db8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_a6b8e738949f0ce9c8ee985466bbfa28a1a20876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\5a124db0bb23a5cf1a91ce2cd533bdc6d2fe8f0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_138af33d6c9227654a87ce55013aed6787495e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\e1d0809b704c791e4cf4f3b3667752e66d3fe25a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_0101133c5461e186329155d7533b9123beba1fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\glide-3.7.0_0bb59e9f4ad8ef98463a8385e8585720c8f8f6e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_93b2a3cf6fd829ec1d25cf089e5e88722ff2eb1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\8d893d5284185c3a2193ba581423fe5a61ea69b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_4ef17dce5763e69b7c50abc6ea6137cfdf297033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\426dba6f791b1380e5e2c12975b04ece17fd901f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_19381242356c558e8313415adf030e134138f7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\39cadd45c802e154058c357579aebbd3f69bc788\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_ea944ce8646f0c31b466ae83fca8990565c33736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\06e9dff8e8e5d9a6bc1492858242e9dc789f1f8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_81dc32898a1d7c782a91cdad19d2b24a55693f33.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_acb04206c47c9cfb9d5a238734b3b986230bfe84\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\5806e7916c59d9a90b9e2273d9128f368ac3efc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_aec2c1bcf8633bbaae2439306246fc380d55e7e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\7d0614a38bddb77b10978c23a7f456f231ca56a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_1c1cb3b76d6424432bbf1cb4aec115a7a7b21593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\325d24f42bd3ecb2f2061932087345fba3ebfa81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_344403371d591638f10e957293f48ecc5add6e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\ac144340db787355136bbee7120d0507507606eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_4e1c157939c97bd622f4b20d4ba9bcc96cc24b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\117e211b667d4da5990384d00f7f3e91c9cb0293\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_04bd1163b0d43e1e498095fdfe1be1dfb5774c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\505e23252713fbea433aadc2c5db4e55234d00ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_80b4f056d10ef513252bc8508305f7dbe07530c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\8ff91817bc86c7dc0aafa565e23d433dd25e809a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_7061b80d96a95c72acfbc42d4724541377cb6c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\6d26183301a09e1758fb011d28022682bdc4e34f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_c0d0c78f7937e16b88df35ea7605057177b19caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\130109a675ae2d68f57c163fb3cdcc2960013904\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_d5fcca85e193e0b5f25b8979399e3c68dbe6dc40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\ceac7740c110d3416ab6c57d90255effb8fb56db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_3dcfb517bd12b50b22475755cb1d28811045aae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\ceb894878119cc276923c1e50a9bd399ca59060d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_9008ca3bf04f665bf2332e1489844c93509c65b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\4c35e5b161ec7b64ef54fb051ffa13fa50e92979\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_fd6fa88ef83038e85f5ef536668cfdbe76c66469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\d66c1a7f14ed6bf1969f7df7f61d2474a45e09e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_05968936cbc9693cbc3a51130ab261d4f0b1931b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2fdc2cea206397e17a5858ea03718446db6ddaf">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7e1446e4e04280b310a3cb854301efd014484981\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\8a33b85ae697bfae5e1dbf230aed83ab8c435883\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_a344f097239765d51cdc1c2e7a6d38c7f3367002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\92ffefe4ec3f0d1d49420600b2399d514c0cdbfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_c546780eaf9e2951ddf7bed67146146cecc02003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\1fca94fee166f5ba547dae6fa89c69b5a30ce775\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_3551bdcba29f609fc5382ecbe9b5ee27b1ef7da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\32a92ce97047bd590edb004bf6898d9d594ae3fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_2e0c69efe4922f4db927ec848f6b2f2f5a24b590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\31469e47daf6578a3c4a2a05e6c89c99ba831635\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_f582f9bed91b13727ece6e7f4e264e3d90dde361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\4a6fa630fc23bbe3f06107c2c187bc24dc4630c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_d07bcacf5805253413a373b0c9669683f2cb21b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1fc0fd1776671548f5d4a7d35e42bbaf30eed27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\7a0547ba6a1472a79eabfc70faecc28bfdf2ce5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_6528482aa0dab9d7d2586f0d923202c7b49731f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\b0696dce1caf0f7a24ec7cdbb099086bbbd701c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_19edf4c1163c7adca8eac1850886c90400178281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\AndroidProjects\Maked_project\CanWeTalk\app\build\intermediates\pre-dexed\debug\classes_a4101a89c37a8c75522ae5a810cfd38f0a980a33.jar" />
+    </item>
+
+</items>

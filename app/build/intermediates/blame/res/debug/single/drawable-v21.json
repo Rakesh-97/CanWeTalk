@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Rakesh\\.android\\build-cache\\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Rakesh\\.android\\build-cache\\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Rakesh\\.android\\build-cache\\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Rakesh\\.android\\build-cache\\9dd53e26c99b009ffbd3d9b059dfb3817924ca95\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Rakesh\\.android\\build-cache\\8a33b85ae697bfae5e1dbf230aed83ab8c435883\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Maked_project\\CanWeTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rounded_button.xml",
+        "source": "C:\\Users\\Rakesh\\.android\\build-cache\\a01b7e782e0a5e2255f648b044b33bad7da11125\\output\\res\\drawable-v21\\rounded_button.xml"
+    }
+]
